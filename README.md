@@ -11,6 +11,7 @@ We can analyse multiple datasets to understand this much better, like the John H
 ![MI1](covid1.png)
 ![MI2](covid2.png)
 At the state level, Michigan has the highest positive cases and deaths.
+![MI3](covid3.png)
 There is a moderately strong positive correlation between death rate, positive covid rate and poverty.
 Looking at the data overtime, we saw a jump in positive covid case numbers after Apr 3rd 2020, which could be due to the increasing testing.
 For the average poverty rate in midwest states at the county level, Missouri has the highest.

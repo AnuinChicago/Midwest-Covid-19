@@ -3,7 +3,8 @@
   2. Is poverty also a factor?
 
 Instead of focusing on just Illinois, we decided to study all 12 states in midwest to expand the project scope.
-We can analyse multiple datasets to understand this much better, like the John Hopkins Covid Dataset, Census Data. 
+We can analyse multiple datasets to understand this much better, like the John Hopkins Covid Dataset and the  Census Data. 
+
 ## Analysis
 At state level, Michigan has the highest positive cases and deaths.
 There is a moderately strong positive correlation between death rate, positive covid rate and poverty.

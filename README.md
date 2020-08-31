@@ -1,4 +1,5 @@
 # What factors associate with COVID-19 spread?
+![covid](proj1.jpg
   1. Are some racial groups are more vulnerable?
   2. Is poverty also a factor?
 

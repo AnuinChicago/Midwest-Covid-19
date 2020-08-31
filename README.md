@@ -1,5 +1,6 @@
 # What factors associate with COVID-19 spread?
 ![covid](proj1.jpg)
+
   1. Are some racial groups are more vulnerable?
   2. Is poverty also a factor?
 
@@ -8,6 +9,7 @@ We can analyse multiple datasets to understand this much better, like the John H
 
 ## Analysis
 ![MI1](covid1.png)
+![MI2](covid2.png)
 At the state level, Michigan has the highest positive cases and deaths.
 There is a moderately strong positive correlation between death rate, positive covid rate and poverty.
 Looking at the data overtime, we saw a jump in positive covid case numbers after Apr 3rd 2020, which could be due to the increasing testing.

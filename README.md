@@ -16,5 +16,6 @@ There is a moderately strong positive correlation between death rate, positive c
 Looking at the data overtime, we saw a jump in positive covid case numbers after Apr 3rd 2020, which could be due to the increasing testing.
 For the average poverty rate in midwest states at the county level, Missouri has the highest.
 By checking the distribution of positive covid cases and death in midwest states at county level, we found Michigan and Illinois have the most extreme outliers.
+Missouri, Michigan and Ohio have the widest distribution of poverty rate in midwest.
 ![MI4](covid4.png)
 We found strong positive correlation between posivite covid cases, deaths and poverty count at the county level in midwest, which is consistant with the state level
